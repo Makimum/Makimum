@@ -48,7 +48,7 @@ As a hands-on founder, I lead product development from architecture to launch. H
 ### 🌱 Currently Exploring
 
 *   Diving into **Go** for building high-performance, concurrent backend services.
-*   Mastering advanced **smart contract security patterns** and audit-driven development.
+*   hardware development environments 
 
 ---
 
