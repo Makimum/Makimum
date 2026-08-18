@@ -22,7 +22,7 @@
 
 ### 👋 Hey, I'm Maksim Fursov!
 
-I'm a full-stack builder and founder from San Francisco with a passion for architecting the future on the decentralized web. I thrive on turning ambitious ideas into tangible, user-centric products from concept to deployment. My happy place is at the intersection of clean code, scalable infrastructure, and innovative web3 concepts.
+I'm a full-stack builder and founder from San Francisco with a passion for architecting the future on the decentralized web and SaaS startups. I thrive on turning ambitious ideas into tangible, user-centric products from concept to deployment. My happy place is at the intersection of clean code, scalable infrastructure, and innovative web3 concepts.
 
 </div>
 
@@ -32,17 +32,16 @@ I'm a full-stack builder and founder from San Francisco with a passion for archi
 
 As a hands-on founder, I lead product development from architecture to launch. Here are the ventures I'm currently building:
 
-*   **[VettaX](https://vetta-x.com)**: A platform designed to simplify decentralized asset management. I'm architecting and building the full-stack application, from the Solidity smart contracts on the backend to the reactive Next.js frontend, creating a seamless experience for users entering the web3 space.
-
-*   **RookieAI**: An AI-powered tool that helps junior developers accelerate their learning by providing instant, context-aware code suggestions and explanations. I engineered the backend API using Node.js, integrated the OpenAI API, and built the product's core infrastructure on Supabase.
+*   **[VettaX](https://vetta-x.com)**: A platform designed to simplify your posting activities while you are shipping new startups. I'm architecting and building the full-stack application, using Python, PostgreSQL, Redis and many more. 
+*   **RookieAI**: An AI-powered tool that helps students to apply to UK universities specifically, it takes 10 minutes to get a taste of where you will most likely to get into with your input information. I will open it once again during fall so you can use it to apply. 
 
 ---
 
 ### 🎯 What I'm Focused On
 
 *   💡 **Building Ventures:** Leading the full product lifecycle for my startups, from initial architecture and smart contract design to frontend development and deployment.
-*   🌐 **Full-Stack dApp Development:** Building and deploying decentralized applications from scratch using Next.js, Solidity, Ethers.js, and deploying via Vercel.
-*   🛠️ **Scalable Architectures:** Designing resilient backend systems with Node.js and PostgreSQL, and containerizing services with Docker for consistent, scalable deployments.
+*   🌐 **Full-Stack dApp Development:** Building and deploying decentralized applications from scratch using Next.js, Solidity, Ethers.js, and deploying via Lovable.
+*   🛠️ **Scalable Architectures:** Designing resilient backend systems with Python and PostgreSQL, and containerizing services with Docker for consistent, scalable deployments.
 
 ---
 
@@ -50,7 +49,6 @@ As a hands-on founder, I lead product development from architecture to launch. H
 
 *   Diving into **Go** for building high-performance, concurrent backend services.
 *   Mastering advanced **smart contract security patterns** and audit-driven development.
-*   Experimenting with **The Graph** for indexing and querying blockchain data efficiently.
 
 ---
 
@@ -59,9 +57,9 @@ As a hands-on founder, I lead product development from architecture to launch. H
 | Frontend                               | Backend                            | Blockchain                      | Databases & DevOps                                |
 | -------------------------------------- | ---------------------------------- | ------------------------------- | ------------------------------------------------- |
 | TypeScript                             | Node.js                            | Solidity                        | PostgreSQL                                        |
-| React / Next.js                        | Express.js                         | Ethers.js / viem                | Supabase                                          |
+| React / Next.js                        | Python                             | Ethers.js / viem                | Supabase                                          |
 | Tailwind CSS                           | GraphQL                            | Hardhat / Foundry               | Docker                                            |
-| Zustand / Redux                        | REST APIs                          | Chainlink                       | Vercel / AWS                                      |
+| Zustand / Redux                        | REST APIs                          | Chainlink                       | Lovable / AWS                                      |
 
 ---
 
