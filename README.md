@@ -81,5 +81,5 @@ I'm always open to connecting with fellow developers, entrepreneurs, and innovat
   <a href="https://github.com/Makimum"><img src="assets/link-github.svg" alt="GitHub @makimum" /></a>
   <a href="https://vetta-x.com"><img src="assets/link-web.svg" alt="vetta-x.com" /></a>
   <a href="https://x.com/makimum_dev"><img src="assets/link-x.svg" alt="X @makimum_dev" /></a>
-  <a href="https://www.linkedin.com/maxim-fursov"><img src="assets/link-linkedin.svg" alt="LinkedIn maxim-fursov" /></a>
+  <a href="https://www.linkedin.com/in/maxim-fursov"><img src="assets/link-linkedin.svg" alt="LinkedIn maxim-fursov" /></a>
 </p>
