@@ -4,18 +4,12 @@
   <img src="https://raw.githubusercontent.com/makimum/makimum/output/space-shooter.gif" alt="makimum's contribution Space Shooter" />
 </p>
 
-<!-- Hero Section -->
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=makimum&theme=aurora&style=terminal&nw=tssAjorJxcAEgolA&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=makimum&theme=aurora&style=terminal&nw=tssAjorJxcAEgolA" alt="makimum profile hero" /></picture>
-</p>
-
-<!-- Optional wow visuals for creative/visual profiles -->
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=makimum&theme=aurora&style=terminal&nw=tssAjorJxcAEgolA&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=makimum&theme=aurora&style=terminal&nw=tssAjorJxcAEgolA" alt="makimum 3D ASCII wordmark" /></picture>
+  <img src="https://raw.githubusercontent.com/makimum/makimum/output/card-neofetch.svg" alt="neofetch card: Maksim Fursov, founder, full-stack, web3. Building VettaX and RookieAI." />
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=makimum&theme=aurora&style=terminal&nw=tssAjorJxcAEgolA&mode=light" /><img src="https://www.gitskins.com/api/section/portrait?username=makimum&theme=aurora&style=terminal&nw=tssAjorJxcAEgolA" alt="makimum ASCII portrait" /></picture>
+  <img src="assets/banner.svg" alt="MAKIMUM" />
 </p>
 
 <div align="center">
@@ -65,14 +59,12 @@ As a hands-on founder, I lead product development from architecture to launch. H
 
 ### 📊 My GitHub Journey
 
-<!-- GitHub Stats -->
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=makimum&theme=aurora&style=terminal&nw=tssAjorJxcAEgolA&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=makimum&theme=aurora&style=terminal&nw=tssAjorJxcAEgolA" alt="makimum GitHub stats" /></picture>
+  <img src="https://raw.githubusercontent.com/makimum/makimum/output/card-stats.svg" alt="GitHub stats and top languages" />
 </p>
 
-<!-- Contribution activity -->
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=makimum&theme=aurora&style=jet&nw=tssAjorJxcAEgolA&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=makimum&theme=aurora&style=jet&nw=tssAjorJxcAEgolA" alt="makimum contribution activity" /></picture>
+  <img src="https://raw.githubusercontent.com/makimum/makimum/output/card-heatmap.svg" alt="Contribution activity over the last year" />
 </p>
 
 ---
@@ -85,13 +77,9 @@ I'm always open to connecting with fellow developers, entrepreneurs, and innovat
 
 </div>
 
-<!-- Social Links -->
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=makimum&theme=aurora&website=vetta-x.com&x=https%3A%2F%2Fx.com%2Fmakimum_dev&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fmaxim-fursov&email=maxfurs2008%40gmail.com&style=terminal&nw=tssAjorJxcAEgolA&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=makimum&theme=aurora&website=vetta-x.com&x=https%3A%2F%2Fx.com%2Fmakimum_dev&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fmaxim-fursov&email=maxfurs2008%40gmail.com&style=terminal&nw=tssAjorJxcAEgolA" alt="makimum social links" /></picture>
-</p>
-
-<p align="center">
-  <a href="https://gitskins.com">
-    <img src="https://img.shields.io/badge/Made%20with-GitSkins-1a1b27?style=for-the-badge&logo=github" alt="Made with GitSkins">
-  </a>
+  <a href="https://github.com/Makimum"><img src="assets/link-github.svg" alt="GitHub @makimum" /></a>
+  <a href="https://vetta-x.com"><img src="assets/link-web.svg" alt="vetta-x.com" /></a>
+  <a href="https://x.com/makimum_dev"><img src="assets/link-x.svg" alt="X @makimum_dev" /></a>
+  <a href="https://www.linkedin.com/maxim-fursov"><img src="assets/link-linkedin.svg" alt="LinkedIn maxim-fursov" /></a>
 </p>
