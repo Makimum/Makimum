@@ -1,17 +1,17 @@
-name: Generate GitSkins contribution games
+name: Profile cards and space shooter
 
 on:
   push:
     paths:
       - README.md
-      - .github/workflows/gitskins-contribution-games.yml
+      - .github/workflows/profile-cards.yml
       - scripts/**
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 concurrency:
-  group: gitskins-contribution-games
+  group: profile-cards
   cancel-in-progress: true
 
 permissions:
@@ -48,16 +48,16 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git ls-remote --exit-code origin refs/heads/output >/dev/null 2>&1; then
             git fetch origin output
-            git worktree add /tmp/gitskins-output FETCH_HEAD
+            git worktree add /tmp/profile-output FETCH_HEAD
           else
-            git worktree add --detach /tmp/gitskins-output
-            cd /tmp/gitskins-output
+            git worktree add --detach /tmp/profile-output
+            cd /tmp/profile-output
             git checkout --orphan output
             git rm -rf . >/dev/null 2>&1 || true
             cd -
           fi
-          cp -f dist/* /tmp/gitskins-output/
-          cd /tmp/gitskins-output
+          cp -f dist/* /tmp/profile-output/
+          cd /tmp/profile-output
           git add .
-          git diff --cached --quiet || git commit -m "Update GitSkins contribution games"
+          git diff --cached --quiet || git commit -m "Update profile cards and space shooter"
           git push origin HEAD:output
